@@ -1,0 +1,16 @@
+ul.recents{
+    display:none;
+}
+
+p.total{
+    display:none;
+    color:#ffffff;
+}
+
+p.ongoing,p.pending,p.completed,p.due{
+    display:none;
+    color:#ffffff;
+}
+ul.ongoing,ul.pending,ul.completed,ul.due {
+    display:none;
+}

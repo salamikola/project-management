@@ -1,0 +1,39 @@
+@import url(https://fonts.googleapis.com/css?family=Nunito);
+
+/*!
+ * Bootstrap v4.1.3 (https://getbootstrap.com/)
+ * Copyright 2011-2018 The Bootstrap Authors
+ * Copyright 2011-2018 Twitter, Inc.
+ * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
+ */
+ 
+ b.logo {
+    color:#003366;
+    font-size: 20px;
+}
+span.login{
+    color:#ffffff;
+    background-color:#000080;
+    border-radius:3px;
+    padding:5px;
+}
+
+span.register{
+    color:#000080;
+    border:1px solid black;
+    padding:5px;
+    border-radius:3px;
+}
+
+span.register:hover{
+    color:#ffffff;
+    background-color: #000080;
+
+}
+
+span.login:hover{
+    color:#000080;
+    background-color:#ffffff;
+    border:1px solid black;
+
+}
